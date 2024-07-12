@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi! I'm Jamel | ジャメル | جمال <img src="https://github.com/images/mona-whisper.gif" alt="octocat" height="24"/> </h2>
 
-<img align='right' src="https://github.com/user-attachments/assets/e23b7f40-1d85-4cdd-bbbf-ea99919c7e84" width="400" />
+<img align='right' src="https://github.com/user-attachments/assets/e23b7f40-1d85-4cdd-bbbf-ea99919c7e84" width="300" />
 
 ✨ aspiring fullstack engineer based in 🇯🇵. <br>
 ↪️ フルスタックエンジニアを目指している理系大学4年生 <br> 
