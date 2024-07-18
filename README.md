@@ -11,8 +11,8 @@
 
 <a>
   <img src="https://komarev.com/ghpvc/?username=sardonyx001&label=Views%20👀&color=0e75b6&style=flat" alt="github profile views" />
-  <img src="github-readme-stats-delta-seven-77.vercel.app/api?username=sardonyx001&show_icons=true&theme=dracula&count_private=true" alt="github status"/> 
-  <img src="github-readme-stats-delta-seven-77.vercel.app/api/top-langs/?username=sardonyx001&hide=shell,lua&layout=compact&theme=dracula" alt="top used languages"/> 
+  <img src="https://github-readme-stats-delta-seven-77.vercel.app/api?username=sardonyx001&show_icons=true&theme=dracula&count_private=true" alt="github status"/> 
+  <img src="https://github-readme-stats-delta-seven-77.vercel.app/api/top-langs/?username=sardonyx001&hide=shell,lua&layout=compact&theme=dracula" alt="top used languages"/> 
 </a>
 
 -----
