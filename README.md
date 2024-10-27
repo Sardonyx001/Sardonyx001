@@ -5,7 +5,7 @@
 ✨ aspiring fullstack engineer based in 🇯🇵. <br>
 ↪️ フルスタックエンジニアを目指している理系大学4年生 <br> 
 ✨ loves computers and all things programming. <br>
-↪️ CSやプログラミンごのあらゆるが好き <br>
+↪️ CSやプログラミングのあらゆるが好き <br>
 ✨ lately writing a lot of golang and learning about distributed systems. <br>
 ↪️ 最近Golangと分散システムを勉強中 <br>
 
