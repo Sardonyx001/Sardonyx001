@@ -2,12 +2,9 @@
 
 <img align='right' src="https://github.com/user-attachments/assets/e23b7f40-1d85-4cdd-bbbf-ea99919c7e84" width="300" />
 
-✨ aspiring fullstack engineer based in 🇯🇵. <br>
-↪️ フルスタックエンジニアを目指している理系大学4年生 <br> 
-✨ loves computers and all things programming. <br>
-↪️ CSやプログラミングのあらゆるが好き <br>
-✨ lately writing a lot of golang and learning about distributed systems. <br>
-↪️ 最近Golangと分散システムを勉強中 <br>
+✨ aspiring fullstack engineer based in 🇯🇵 / フルスタックエンジニアを目指している新卒 <br> 
+✨ loves computers and all things programming / CSやプログラミングのあらゆるが好き <br>
+✨ lately writing a lot of golang / 最近Golangを勉強中 <br>
 
 <a>
   <img src="https://komarev.com/ghpvc/?username=sardonyx001&label=Views%20👀&color=0e75b6&style=flat" alt="github profile views" />
