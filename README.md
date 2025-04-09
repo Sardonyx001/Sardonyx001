@@ -2,14 +2,14 @@
 
 <img align='right' src="https://github.com/user-attachments/assets/e23b7f40-1d85-4cdd-bbbf-ea99919c7e84" width="300" />
 
-✨ aspiring fullstack engineer based in 🇯🇵 / フルスタックエンジニアを目指している新卒 <br> 
+✨ aspiring fullstack engineer based in 🇯🇵 / フルスタックエンジニアを目指している <br> 
 ✨ loves computers and all things programming / CSやプログラミングのあらゆるが好き <br>
 ✨ lately writing a lot of golang / 最近Golangを勉強中 <br>
 
 <a>
   <img src="https://komarev.com/ghpvc/?username=sardonyx001&label=Views%20👀&color=0e75b6&style=flat" alt="github profile views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sardonyx001&show_icons=true&theme=dracula" alt="github status"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx001&langs_count=10&size_weight=0.5&count_weight=0.5&hide=shell,lua,javascript,css,html,mdx,dockerfile,makefile,handlebars,just,cmake&exclude_repo=voronoi.py&layout=compact&theme=dracula" alt="top used languages"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sardonyx001&show_icons=true&theme=dracula" alt="github status"/> 
 </a>
 
 -----
